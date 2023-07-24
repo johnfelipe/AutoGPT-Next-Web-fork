@@ -1,0 +1,20 @@
+{
+  "settings": "Configuración",
+  "usage": "Aquí puede agregar su clave API OpenAI. Esto requerirá que pague por su propio uso de OpenAI, ¡pero le dará un mayor acceso a AgentGPT! Además, puede seleccionar cualquier modelo que ofrezca OpenAI.",
+  "model": "Modelo:",
+  "key": "Llave:",
+  "gpt4-notice": "<0> Para utilizar el modelo GPT-4, también debe proporcionar la clave API para GPT-4. Puedes solicitarlo <1>aquí</1>。 (La suscripción a ChatGPT Plus no funcionará)</0>",
+  "invalid-key": "La clave no es válida, asegúrese de haber configurado la facturación en su cuenta OpenAI",
+  "advanced-settings": "Configuración avanzada",
+  "temp": "Temp:",
+  "temp-tips": "Los valores más altos harán que la salida sea más aleatoria, mientras que los valores más bajos harán que la salida sea más enfocada y determinista.",
+  "loop": "Bucle #:",
+  "loop-tips": "Controla el número máximo de bucles que ejecutará el agente (un valor más alto generará más llamadas a la API).",
+  "api-key-notice": "<0>NOTA: Para obtener una clave, regístrese para obtener una cuenta OpenAI y visite el siguiente <1>enlace.</1>,Esta clave solo se usa en la sesión actual del navegador</0>",
+  "tokens-tips": "Controla el número máximo de tokens utilizados en cada llamada a la API (un valor más alto hará que las respuestas sean más detalladas pero costará más).",
+  "tokens": "Fichas: ",
+  "guest-key": "Clave de invitado: ",
+  "endPoint": "Extremo: ",
+  "mode": "Modo: ",
+  "mode-tips": "Modo automático (predeterminado): El agente ejecuta automáticamente todas las tareas. \n\nModo de pausa: el agente se detiene después de cada conjunto de tareas"
+}
